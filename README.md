@@ -17,6 +17,8 @@
 </div>
 
 ##
-<div style="display: flex" align="center">
-![moiseshbs's Streak](https://github-readme-streak-stats.herokuapp.com/?user=moiseshbs&theme=dark&hide_border=true)
+<div align="center">
+  <a href="https://github.com/moiseshxs">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=moiseshbs&theme=dark&hide_border=true"/>
+  </a>
 </div>
